@@ -1,0 +1,3 @@
+load input.txt
+search greenhouse,!Addressing output.txt
+
